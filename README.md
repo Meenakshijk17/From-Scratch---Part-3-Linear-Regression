@@ -1,4 +1,4 @@
-# From Scratch - Part-2: Linear Regression
+# From Scratch - Part-3: Linear Regression
 
 ### Aim
 This project aims to develop and implement linear regression algorithm from scratch, without using ML libraries like Scikit-Learn.
